@@ -1,8 +1,8 @@
 ### Hi there I'am Miguel👋
 
-- 🔭 I’m currently working on employability module
-- 🌱 I’m currently learning how to get into job market
-- 👯 I’m looking to collaborate with Codeyourfuture employability team/graduates
+- 🔭 I’m currently working on personnal project
+- 🌱 I’m currently learning and practice React
+- 👯 I’m looking to collaborate with new projects
 
 
 
